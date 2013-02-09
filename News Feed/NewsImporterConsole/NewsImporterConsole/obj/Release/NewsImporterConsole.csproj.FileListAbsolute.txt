@@ -1,0 +1,25 @@
+E:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterConsole\NewsImporterConsole\bin\Release\NewsImporterConsole.exe.config
+E:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterConsole\NewsImporterConsole\bin\Release\NewsImporterConsole.exe
+E:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterConsole\NewsImporterConsole\bin\Release\NewsImporterConsole.pdb
+E:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterConsole\NewsImporterConsole\bin\Release\FeedImporter.dll
+E:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterConsole\NewsImporterConsole\bin\Release\PublicLogic.dll
+E:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterConsole\NewsImporterConsole\bin\Release\ICSharpCode.SharpZipLib.dll
+E:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterConsole\NewsImporterConsole\bin\Release\PublicLogic.pdb
+E:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterConsole\NewsImporterConsole\bin\Release\FeedImporter.pdb
+E:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterConsole\NewsImporterConsole\obj\Release\ResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterConsole\NewsImporterConsole\obj\Release\NewsImporterConsole.exe
+E:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterConsole\NewsImporterConsole\obj\Release\NewsImporterConsole.pdb
+D:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterConsole\NewsImporterConsole\bin\Release\NewsImporterConsole.exe.config
+D:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterConsole\NewsImporterConsole\bin\Release\NewsImporterConsole.exe
+D:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterConsole\NewsImporterConsole\bin\Release\NewsImporterConsole.pdb
+D:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterConsole\NewsImporterConsole\bin\Release\FeedImporter.dll
+D:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterConsole\NewsImporterConsole\bin\Release\PublicLogic.dll
+D:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterConsole\NewsImporterConsole\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterConsole\NewsImporterConsole\bin\Release\FeedImporter.pdb
+D:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterConsole\NewsImporterConsole\bin\Release\PublicLogic.pdb
+D:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterConsole\NewsImporterConsole\obj\Release\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterConsole\NewsImporterConsole\obj\Release\NewsImporterConsole.exe
+D:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterConsole\NewsImporterConsole\obj\Release\NewsImporterConsole.pdb
+F:\Leke Backup\Document Backup\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterConsole\NewsImporterConsole\bin\Release\NewsImporterConsole.exe.config
+F:\Leke Backup\Document Backup\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterConsole\NewsImporterConsole\obj\Release\NewsImporterConsole.exe
+F:\Leke Backup\Document Backup\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterConsole\NewsImporterConsole\obj\Release\NewsImporterConsole.pdb

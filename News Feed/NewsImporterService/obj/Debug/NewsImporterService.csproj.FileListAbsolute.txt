@@ -1,0 +1,44 @@
+E:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\obj\Debug\NewsImporterService.NewsImporterService.resources
+E:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\obj\Debug\NewsImporterService.ProjectInstaller.resources
+E:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\obj\Debug\NewsImporterService.csproj.GenerateResource.Cache
+E:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\bin\Debug\NewsImporterService.exe.config
+E:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\bin\Debug\NewsImporterService.exe
+E:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\bin\Debug\NewsImporterService.pdb
+E:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\bin\Debug\PublicLogic.dll
+E:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\bin\Debug\PublicLogic.pdb
+E:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\obj\Debug\NewsImporterService.exe
+E:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\obj\Debug\NewsImporterService.pdb
+E:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\bin\Debug\FeedImporter.dll
+E:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\bin\Debug\FeedImporter.pdb
+D:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\bin\Debug\NewsImporterService.exe.config
+D:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\bin\Debug\NewsImporterService.exe
+D:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\bin\Debug\NewsImporterService.pdb
+D:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\bin\Debug\FeedImporter.dll
+D:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\bin\Debug\PublicLogic.dll
+D:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\bin\Debug\PublicLogic.pdb
+D:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\bin\Debug\FeedImporter.pdb
+D:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\obj\Debug\NewsImporterService.NewsImporterService.resources
+D:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\obj\Debug\NewsImporterService.ProjectInstaller.resources
+D:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\obj\Debug\NewsImporterService.exe
+D:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\obj\Debug\NewsImporterService.pdb
+D:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Leke Backup\Document Backup\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\bin\Debug\NewsImporterService.exe.config
+F:\Leke Backup\Document Backup\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\bin\Debug\NewsImporterService.exe
+F:\Leke Backup\Document Backup\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\bin\Debug\NewsImporterService.pdb
+F:\Leke Backup\Document Backup\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\bin\Debug\FeedImporter.dll
+F:\Leke Backup\Document Backup\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\bin\Debug\PublicLogic.dll
+F:\Leke Backup\Document Backup\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\Leke Backup\Document Backup\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\bin\Debug\FeedImporter.pdb
+F:\Leke Backup\Document Backup\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\bin\Debug\PublicLogic.pdb
+F:\Leke Backup\Document Backup\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\obj\Debug\ResolveAssemblyReference.cache
+F:\Leke Backup\Document Backup\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\obj\Debug\NewsImporterService.NewsImporterService.resources
+F:\Leke Backup\Document Backup\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\obj\Debug\NewsImporterService.ProjectInstaller.resources
+F:\Leke Backup\Document Backup\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Leke Backup\Document Backup\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Leke Backup\Document Backup\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\obj\Debug\NewsImporterService.exe
+F:\Leke Backup\Document Backup\Documents\Visual Studio 2008\Projects\News Feed\NewsImporterService\obj\Debug\NewsImporterService.pdb

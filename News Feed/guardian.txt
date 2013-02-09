@@ -1,0 +1,13 @@
+//capital markets link
+<a\s*href\=["'](?<link>/capital_market.+?)["']
+
+//guardian links
+<a\s*href\=["'](?<link>http://www.ngrguardiannews.com/capital_market.+?)["']
+
+//main text all text regex
+<p class="fulltext">[\s\S]+?</p>
+
+//paragraph start case and maintext
+<FONT SIZE =\+[1]\>(?<uppercase>.{1}?)\<[\s\S]+?</b>(?<maintext>[\s\S]+?)\</p>
+
+

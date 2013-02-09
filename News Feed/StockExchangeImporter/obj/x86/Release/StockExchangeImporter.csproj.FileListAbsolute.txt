@@ -1,0 +1,8 @@
+F:\Leke Backup\Document Backup\Documents\Visual Studio 2008\Projects\News Feed\StockExchangeImporter\bin\Release\StockExchangeImporter.exe
+F:\Leke Backup\Document Backup\Documents\Visual Studio 2008\Projects\News Feed\StockExchangeImporter\bin\Release\StockExchangeImporter.pdb
+F:\Leke Backup\Document Backup\Documents\Visual Studio 2008\Projects\News Feed\StockExchangeImporter\bin\Release\PublicLogic.dll
+F:\Leke Backup\Document Backup\Documents\Visual Studio 2008\Projects\News Feed\StockExchangeImporter\bin\Release\ICSharpCode.SharpZipLib.dll
+F:\Leke Backup\Document Backup\Documents\Visual Studio 2008\Projects\News Feed\StockExchangeImporter\bin\Release\PublicLogic.pdb
+F:\Leke Backup\Document Backup\Documents\Visual Studio 2008\Projects\News Feed\StockExchangeImporter\obj\x86\Release\ResolveAssemblyReference.cache
+F:\Leke Backup\Document Backup\Documents\Visual Studio 2008\Projects\News Feed\StockExchangeImporter\obj\x86\Release\StockExchangeImporter.exe
+F:\Leke Backup\Document Backup\Documents\Visual Studio 2008\Projects\News Feed\StockExchangeImporter\obj\x86\Release\StockExchangeImporter.pdb

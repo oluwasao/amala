@@ -1,0 +1,14 @@
+//this day links
+<a\s*href\=["'](?<link>.+?)["']\>
+
+//thisday main linke
+\<ul\s*class=["']news["'][\s\S]+?\</ul>
+
+//feed
+<P\s*align=justify>(?<feed>[\s\S]+?)</P>
+
+//header
+\<h2[\s\S]{1,}?\>(?<header>[\s\S]{1,}?)\</h2>
+Need to check that the page in the links does not contain access denied as this means the page does not have the full content.
+
+

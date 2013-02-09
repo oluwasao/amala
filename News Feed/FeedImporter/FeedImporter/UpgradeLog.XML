@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="FeedImporter">
+</Property><Property Name="Solution File" Value="D:\Documents\Visual Studio 2008\Projects\News Feed\FeedImporter\FeedImporter\FeedImporter.sln">
+</Property><Property Name="User Options File" Value="D:\Documents\Visual Studio 2008\Projects\News Feed\FeedImporter\FeedImporter\FeedImporter.suo">
+</Property><Property Name="Date" Value="17 October 2010">
+</Property><Property Name="Time" Value="20:14">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="FeedImporter.sln" Description="File successfully backed up as D:\Documents\Visual Studio 2008\Projects\News Feed\FeedImporter\FeedImporter\Backup\FeedImporter.sln">
+</Event><Event ErrorLevel="0" Project="" Source="FeedImporter.suo" Description="File successfully backed up as D:\Documents\Visual Studio 2008\Projects\News Feed\FeedImporter\FeedImporter\Backup\FeedImporter.suo">
+</Event><Event ErrorLevel="0" Project="FeedImporter" Source="FeedImporter.csproj" Description="Project file successfully backed up as D:\Documents\Visual Studio 2008\Projects\News Feed\FeedImporter\FeedImporter\Backup\FeedImporter.csproj">
+</Event><Event ErrorLevel="0" Project="FeedImporter" Source="Importer\GuardianImporter.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2008\Projects\News Feed\FeedImporter\FeedImporter\Backup\Importer\GuardianImporter.cs">
+</Event><Event ErrorLevel="0" Project="FeedImporter" Source="Importer\Importer.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2008\Projects\News Feed\FeedImporter\FeedImporter\Backup\Importer\Importer.cs">
+</Event><Event ErrorLevel="0" Project="FeedImporter" Source="Importer\ThisDayImporter.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2008\Projects\News Feed\FeedImporter\FeedImporter\Backup\Importer\ThisDayImporter.cs">
+</Event><Event ErrorLevel="0" Project="FeedImporter" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Documents\Visual Studio 2008\Projects\News Feed\FeedImporter\FeedImporter\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="FeedImporter" Source="App.config" Description="File successfully backed up as D:\Documents\Visual Studio 2008\Projects\News Feed\FeedImporter\FeedImporter\Backup\App.config">
+</Event><Event ErrorLevel="0" Project="FeedImporter" Source="FeedImporter.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="FeedImporter" Source="FeedImporter.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="FeedImporter.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="FeedImporter.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="FeedImporter" Source="FeedImporter.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

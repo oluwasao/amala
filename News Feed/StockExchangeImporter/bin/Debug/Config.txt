@@ -1,0 +1,3 @@
+DownloadPath = C:\Downloads
+FileNames = 10-01-2013.zip,09-01-2013.zip
+PathUrl = http://www.nse.com.ng/MarketNews/Downloads/Capnet Files/Capnet Files for
